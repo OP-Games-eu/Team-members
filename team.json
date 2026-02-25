@@ -24,6 +24,6 @@
       "role": "Co-Owner | Developer",
       "roleColor": "bg-red-500 text-white hover:bg-red-700 transition-all",
       "description": "Gründer des Netzwerks und zuständig für die Infrastruktur."
-    },
+    }
   ]
 }

@@ -3,6 +3,7 @@
     {
       "name": "DerGamer09",
       "realName": "Phillipp Jäger",
+      "isBedrock": false,
       "role": "Owner",
       "roleColor": "bg-red-500 text-white",
       "description": "Gründer des Netzwerks und zuständig für die Infrastruktur."
@@ -10,6 +11,7 @@
     {
       "name": ".DerBenxFan10",
       "realName": "Phillipp Jäger",
+      "isBedrock": true,
       "role": "Owner",
       "roleColor": "bg-red-500 text-white",
       "description": "Gründer des Netzwerks und zuständig für die Infrastruktur."
@@ -17,12 +19,14 @@
     {
       "name": "YTDrVevon",
       "role": "Owner",
+      "isBedrock": false,
       "roleColor": "bg-red-500 text-white",
       "description": "Gründer des Netzwerks und zuständig für die Infrastruktur."
     },
     {
       "name": "LumioDev",
       "role": "Co-Owner | Developer",
+      "isBedrock": false,
       "roleColor": "bg-red-500 text-white hover:bg-red-700 transition-all",
       "description": "Gründer des Netzwerks und zuständig für die Infrastruktur."
     }

@@ -1,0 +1,19 @@
+name: PR Check (JSON Validierung)
+
+on:
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Prüfe team.json auf Syntax-Fehler
+        run: |
+          echo "Prüfe die Datei auf fehlende Kommas oder Klammern..."
+          # jq ist ein Tool, das prüft, ob eine JSON-Datei gültig ist
+          jq empty team.json
+          echo "✅ Die JSON-Datei ist fehlerfrei!"

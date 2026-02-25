@@ -9,14 +9,6 @@
       "description": "Gründer des Netzwerks und zuständig für die Infrastruktur."
     },
     {
-      "name": "DerBenxFan10",
-      "realName": "Phillipp Jäger",
-      "isBedrock": true,
-      "role": "Owner",
-      "roleColor": "bg-red-500 text-white",
-      "description": "Gründer des Netzwerks und zuständig für die Infrastruktur."
-    },
-    {
       "name": "YTDrVevon",
       "role": "Owner",
       "isBedrock": false,

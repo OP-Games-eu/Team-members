@@ -1,0 +1,17 @@
+{
+  "team": [
+    {
+      "name": "DerGamer09",
+      "realName": "Phillipp Jäger",
+      "role": "Owner",
+      "roleColor": "bg-red-500 text-white",
+      "description": "Gründer des Netzwerks und zuständig für die Infrastruktur."
+    },
+    {
+      "name": "DrVevon",
+      "role": "Owner",
+      "roleColor": "bg-red-500 text-white",
+      "description": "Gründer des Netzwerks und zuständig für die Infrastruktur."
+    }
+  ]
+}
